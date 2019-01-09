@@ -15,7 +15,7 @@ WebStorm включает в себя всё необходимое для ра�
 Склонируйте репозиторий и установите зависимости:
 
 ```bash
-git clone https://github.com/urfu-2018/typescript-task-exam/
+git clone https://github.com/urfu-2018/task-exam/
 cd typescript-task-exam
 npm install
 ```
